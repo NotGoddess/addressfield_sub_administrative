@@ -1,0 +1,7 @@
+name = Address Field - Sub Administrative
+description = Adds the sub-administrative area (county) to the address field 
+core = 7.x
+package = Fields
+dependencies[] = addressfield
+
+version = "7.x-1.2"
